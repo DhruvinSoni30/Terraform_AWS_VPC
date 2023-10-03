@@ -1,1 +1,1 @@
-# Create a VPC module and spin up 2 different VPCs using it 
+# Create a VPC module and spin up 2 different VPCs using terraform 
